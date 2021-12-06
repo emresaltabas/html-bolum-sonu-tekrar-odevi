@@ -2,6 +2,6 @@
 
 Projenin amacı HTML derlerinde öğrenilen bilgileri tekrar ederek pekiştirmek
 
-Projenin İlave Katkısı Github kullanımını pratikleştirmek
+Projenin ilave katkısı Github kullanımını pratikleştirmek
 
-Proje Seviyesi Kolay
+Proje seviyesi orta
